@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>ثانوية عبد الحميد ابن باديس</title>
+    <style>
+        body { background-color: #000; color: #fff; text-align: center; font-family: sans-serif; margin: 0; }
+        header { padding: 50px; background: #000; }
+        h1 { color: #f1c40f; font-size: 2rem; }
+        .main-img { 
+            width: 90%; max-width: 600px; border: 3px solid #f1c40f; 
+            border-radius: 15px; margin: 20px auto; display: block;
+        }
+    </style>
+</head>
+<body>
+    <header><h1>مرحبا بكم في ثانوية عبد الحميد ابن باديس</h1></header>
+    <img src="8033.jpg" alt="ثانوية عبد الحميد ابن باديس" class="main-img">
+    <p>© 2026 جميع الحقوق محفوظة</p>
+</body>
+</html>
